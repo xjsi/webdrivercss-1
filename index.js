@@ -1,6 +1,6 @@
 /**
  * WebdriverCSS
- * Regression testing tool for WebdriverJS
+ * Regression testing tool for WebdriverIO
  * 
  * @author Christian Bromann <mail@christian-bromann.com>
  * @license Licensed under the MIT license.
